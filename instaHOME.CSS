@@ -1,0 +1,98 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.icon-bar {
+  height: 100%;
+  width: 210px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: black;
+  overflow-x: hidden;
+  padding-top: 16px;
+}
+
+.d1 {
+margin-left: 27px;
+margin-top: 42px;
+}
+.vl {
+  border-left: 1px solid rgb(48, 45, 45);
+  height: 800px;
+  position: absolute;
+  left: 19%;
+  margin-left: -3px;
+  top: 0;
+}
+.story {
+  display: flex;
+}
+.box1 {
+  display: flex;
+  border-radius: 20px;
+}
+.box1:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box0 {
+  display: flex;
+ border-radius: 20px;
+}
+.box0:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box2 {
+  display: flex;
+  border-radius: 20px;
+}
+.box2:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box3 {
+  display: flex;
+  border-radius: 20px;
+}
+.box3:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box4 {
+  display: flex;
+  border-radius: 20px;
+}
+.box4:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box5 {
+  display: flex;
+  border-radius: 20px;
+}
+.box5:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box6 {
+  display: flex;
+  border-radius: 20px;
+}
+.box6:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.box7 {
+  display: flex;
+  border-radius: 20px;
+}
+.box7:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+.id {
+  margin-left: 40px;
+}
